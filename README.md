@@ -17,3 +17,4 @@ HI!
 # References
 
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/arduino-code
+Library: https://github.com/adafruit/Adafruit_Sensor
