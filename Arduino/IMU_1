@@ -1,5 +1,9 @@
 First, I just follow the instructions on Adafruit.
 
+<img src="Images/sensors_wiring.jpg">
+
+![](Images/sensors_wiring.png)
+
 
 Reference:
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/arduino-code
