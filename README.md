@@ -12,9 +12,11 @@ HI!
 
 ![](images/sensors.jpg)
 
+Try to use OSC on phone. Download app TouchOSC.
 
 
 # References
 
 https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/arduino-code
 Library: https://github.com/adafruit/Adafruit_Sensor
+MAX OSC ACCELEROMETER: https://www.youtube.com/watch?v=FxkfbvP9cm0
